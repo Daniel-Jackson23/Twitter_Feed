@@ -1,0 +1,13 @@
+
+
+ textarea, label{
+    display: flex;
+    margin-top: 3px;
+}
+canvas{
+    border: 1px solid; 
+    margin-top: 15px ;
+}
+#buttons{
+    margin-top: 10px;
+}
